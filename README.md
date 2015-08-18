@@ -1,2 +1,2 @@
 # website
-Glasgow Tango Academy website
+Glasgow Tango Academy website source files (Jekyll)
