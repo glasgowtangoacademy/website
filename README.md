@@ -1,2 +1,1 @@
-# website
-Glasgow Tango Academy website source files (Jekyll)
+The Glasgow School of Tango
